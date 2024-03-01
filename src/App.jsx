@@ -2,8 +2,8 @@ import {useEffect, useState} from 'react'
 import { createClient } from "@supabase/supabase-js";
 
 const supabase = createClient(
-  "https://qdlaqnjizbypvfevfyqu.supabase.co",
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFkbGFxbmppemJ5cHZmZXZmeXF1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDkzMTMyMTEsImV4cCI6MjAyNDg4OTIxMX0.n3uqNy9eozACTHN5VyfkZ5G_pSwxJRmfUS1VQQm_kYI"
+  "URL ADRESA SUPABASE PROJEKTU",
+  "ANON KLIC Z PROJEKTU"
 );
 
 function App() {
